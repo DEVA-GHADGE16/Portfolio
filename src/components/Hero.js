@@ -14,6 +14,8 @@ function Hero() {
       <div className="hero-content">
         <div className="hero-image">
           <img src={mypic} alt="Devendra" />
+          <br>
+          </br>
           <h3 className="hero-name">|DEVENDRA GHADGE|</h3>
         </div>
         <div className="hero-text">
