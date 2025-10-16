@@ -85,7 +85,7 @@ body {
   width: 250px;
   height: 350px;
   object-fit: cover;
-  border-radius: 500px;
+  border-radius: 100px;
   box-shadow: 0 15px 30px rgba(218, 250, 7, 0.4);
   border: 4px solid #0c0101;
   transition: transform 0.8s ease;
